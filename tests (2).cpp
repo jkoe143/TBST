@@ -1,9 +1,3 @@
-/*-------------------------------------------
-Project 3: Threaded Binary search tree test cases
-Course: CS 251, Summer 2024, UIC
-System: Advanced zyLab system
-Author: Jason Park
--------------------------------------------*/
 #include "bstt.h"
 #include <gtest/gtest.h>
 using namespace std;
