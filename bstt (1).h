@@ -1,10 +1,3 @@
-/*-------------------------------------------
-Project 3: Threaded Binary search tree
-Course: CS 251, Summer 2024, UIC
-System: Advanced zyLab system
-Author: Jason Park
--------------------------------------------*/
-
 #pragma once
 #include <iostream>
 using namespace std;
